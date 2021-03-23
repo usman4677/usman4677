@@ -13,5 +13,5 @@ figure {
   }
 
   .nivo-lightbox-thumbnail, .nivo-lightbox-image, .c-avatar__img {
-    filter: grayscale(1);
+    /* filter: grayscale(1); */
   }
